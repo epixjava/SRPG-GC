@@ -29,7 +29,7 @@
 
 ## Introduction 
 
-Hello! The SRPG decomp Project is a an effort to restore\recreate the Gamecube Version of Sonic RPG Console. This allows the Homebrew list on <https://gchomebrew.com/> to be comeplete and one more game to run on our beloved Gamecubes. The game was orginally developed by gameblala. According to the original developer, the Gamecube version of this homebrew never ran correctly and was taken down. 
+Hello! The SRPG decomp Project is a an effort to restore\recreate the Gamecube Version of Sonic RPG Console. This allows the Homebrew list on <https://gchomebrew.com/> to be comeplete and one more game to run on our beloved Gamecubes. The game was originally developed by gameblala. According to the original developer, the Gamecube version of this homebrew never ran correctly and was taken down. 
 
 * Why? 
 
@@ -37,7 +37,7 @@ Idk... I just really like anything related to Sonic The Hedgehog. The unobtainab
 
 * Okay but like why? 
 
-Go to <https://gchomebrew.com/>. Under the ultimate guide, there is a list of indies in the Homebrew section. Sonic RPG Console is the only homebrew onb that list that is unable for download. The goal of this project is to restore the missing Gamecube version to the internet. I am assuming most of the people that have played this game have played the Sega Mega drive port. That is how I found it at least. I wanted to restore the game as close to the original intent of the artist. I am attempting to get as close as possible to the orginal source code by using the same tools when possible. If not possible, screenshots. 
+Go to <https://gchomebrew.com/>. Under the ultimate guide, there is a list of indies in the Homebrew section. Sonic RPG Console is the only homebrew onb that list that is unable for download. The goal of this project is to restore the missing Gamecube version to the internet. I am assuming most of the people that have played this game have played the Sega Mega drive port. That is how I found it at least. I wanted to restore the game as close to the original intent of the artist. I am attempting to get as close as possible to the original source code by using the same tools when possible. If not possible, screenshots. 
 
 
 ## Gamecube Version
