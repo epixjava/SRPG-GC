@@ -42,7 +42,7 @@ Go to <https://gchomebrew.com/>. Under the ultimate guide, there is a list of in
 
 ## Gamecube Version
 
-The lost classic restored! Sonic RPG Console is a (very) simple text based rpg. Recreated using old screenshots, old source code and a hunch. Runs on actual hardware and dolphin. Developed using devkitpro. Project is forever WIP until the orginal is found but this is a close as we are gonna get. Check it out and try it for yourself! If you want more information on this release along with other console homebrew please check out my other repository - https://github.com/epixjava/SRPG-Decomp-Project
+The lost classic restored! Sonic RPG Console is a (very) simple text based rpg. The game is only playable in French. Recreated using old screenshots, old source code and a hunch. Runs on actual hardware and dolphin. Developed using devkitpro. Project is forever WIP until the orginal is found but this is a close as we are gonna get. Check it out and try it for yourself! If you want more information on this release along with other console homebrew please check out my other repository - https://github.com/epixjava/SRPG-Decomp-Project
 
 
 ## Special Thanks 
